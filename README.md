@@ -26,6 +26,3 @@ Sigue uno de estos tutoriales según tu idioma preferido para configurar todo co
 - **[Tutorial en inglés](https://www.youtube.com/watch?v=-G6GbXGo4wo)** por *TroubleChute*.
 - **[Tutorial en español](https://www.youtube.com/c/FaztCode](https://www.youtube.com/watch?v=d9y0l7yY404)** por *Fazt Code*.
 
----
-
-¡Gracias por visitar mi repositorio y espero que estas configuraciones te sean útiles! 🚀
