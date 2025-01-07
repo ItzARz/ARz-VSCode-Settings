@@ -24,5 +24,5 @@ Mi configuración de terminal se basa en las siguientes herramientas:
 Sigue uno de estos tutoriales según tu idioma preferido para configurar todo correctamente:
 
 - **[Tutorial en inglés](https://www.youtube.com/watch?v=-G6GbXGo4wo)** por *TroubleChute*.
-- **[Tutorial en español](https://www.youtube.com/c/FaztCode](https://www.youtube.com/watch?v=d9y0l7yY404)** por *Fazt Code*.
+- **[Tutorial en español](https://www.youtube.com/watch?v=d9y0l7yY404)** por *Fazt Code*.
 
