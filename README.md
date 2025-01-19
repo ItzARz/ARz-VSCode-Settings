@@ -1,4 +1,4 @@
-# My Coding Environment Settings 🚀
+# ARz Code Environment Settings 🚀
 
 ¡Hola! 🙋‍♂️ Bienvenido a mi repositorio donde comparto las configuraciones que utilizo en mi entorno de desarrollo. 
 
